@@ -57,5 +57,6 @@ resource "aws_security_group" "main" {
   tags = {
     Name = "main-sg"
   }
+
 }
 
